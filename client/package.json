@@ -29,6 +29,6 @@
     "tailwindcss": "^3.4.15",
     "vite": "^5.4.10"
   },
-  "proxy": {"https://www.yourwebsitename.com"
+  "proxy": {"https://mernbackend-9.onrender.com"
 }
 }
